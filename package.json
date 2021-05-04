@@ -4,7 +4,7 @@
   "description": "TODO list ",
   "main": "index.js",
   "scripts": {
-    "build" : "npm run",
+    "build" : "npm start",
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
